@@ -1,6 +1,6 @@
 # Hi there, I'm Fiyaz! 👋
 
-I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack enthusiast and currently serve as the Team Lead at 724.One. My goal is to lead and inspire a team of talented developers to build innovative and impactful software solutions.
+I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack enthusiast and currently serve as the CTO at 724.One. My goal is to lead and inspire a team of talented developers to build innovative and impactful software solutions.
 
 ## 🚀 What I Do
 
